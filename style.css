@@ -6,7 +6,7 @@ h1{
     padding-left: 10px;
     border: auto;
 }
-#h1-color{
+#h1-color{ 
     color: rgb(56, 2, 2);
 }
 .color{
@@ -32,4 +32,33 @@ section{
     border-radius: 10px;
     color: white;
     font-weight: 800;
+}
+.header-position{
+    text-align: center;
+}
+.box-model{
+    width: 30%;
+    height: 300px;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-radius: 20px;
+}
+.image-decoration{
+    width: 200px;
+    height: 100px;
+}
+#first-section{
+    background-color:rgb(201, 184, 160);
+    border: 5px;
+    padding: 5px;
+}
+#second-section{
+    background-color: rgb(221, 189, 140);
+    border: 5px;
+    padding: 5px;
+}
+#third-section{
+    background-color: blanchedalmond;
+    border: 5px;
+    padding: 5px;
 }
