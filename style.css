@@ -24,6 +24,7 @@ section{
 .half-width img{
     width: 60%;
     
+    
 }
 .button{
     text-decoration: none;
@@ -61,4 +62,8 @@ section{
     background-color: blanchedalmond;
     border: 5px;
     padding: 5px;
+}
+.image-shape{
+margin-left: 100px;
+border-radius: 30px;
 }
