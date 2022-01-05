@@ -1,0 +1,35 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+h1{
+    font-size: 50px;  
+    padding-left: 10px;
+    border: auto;
+}
+#h1-color{
+    color: rgb(56, 2, 2);
+}
+.color{
+    color: rgb(32, 9, 180);
+}
+section{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+.half-width img{
+    width: 60%;
+    
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(211, 143, 17), rgb(207, 22, 22));
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 800;
+}
