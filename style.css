@@ -7,6 +7,10 @@ h1{
     padding-left: 10px;
     border: auto;
 }
+h2{
+    font-size: 20px;
+    color: rgb(5, 42, 112);
+}
 #h1-color{ 
     color: rgb(56, 2, 2);
 }
@@ -45,7 +49,7 @@ section{
     height: 400px;
     margin-left: 2%;
     margin-right: 5%;
-    border-radius: 20px;
+   
 }
 .image-decoration{
     width: 300px;
@@ -69,6 +73,30 @@ section{
 }
 .image-shape{
 margin-left: 150px;
+}
+
+#fourth-section{
+    border: 5px;
+    padding: 5px;
+    background-color:rgb(201, 184, 160);
+    height: 700px;
+    box-shadow: 10px 10px 50px rgb(24, 13, 2);
+
+}
+#fifth-section{
+    border: 5px;
+    padding: 5px;
+    background-color:rgb(221, 189, 140);;
+    height: 700px;
+    box-shadow: 10px 10px 50px rgb(24, 13, 2);
+
+}
+#sixth-section{
+    border: 5px;
+    padding: 5px;
+    background-color:blanchedalmond;
+    height: 700px;
+    box-shadow: 10px 10px 50px rgb(24, 13, 2);
 
 }
 .footer-section{
