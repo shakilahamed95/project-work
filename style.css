@@ -42,14 +42,15 @@ section{
 }
 .box-model{
     width: 30%;
-    height: 300px;
+    height: 400px;
     margin-left: 2%;
-    margin-right: 2%;
+    margin-right: 5%;
     border-radius: 20px;
 }
 .image-decoration{
-    width: 200px;
-    height: 100px;
+    width: 300px;
+    height: 200px;
+    border-radius: 50%;
 }
 #first-section{
     background-color:rgb(201, 184, 160);
@@ -68,7 +69,7 @@ section{
 }
 .image-shape{
 margin-left: 150px;
-border-radius: 30px;
+
 }
 .footer-section{
     text-align: center;
@@ -77,6 +78,7 @@ border-radius: 30px;
     width: 100%;
     height: 150px;
     padding-top: 2px;
-}div h1 span {
+}
+footer div h1 span {
     color: rgb(187, 24, 24);
 }
